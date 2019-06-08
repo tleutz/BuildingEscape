@@ -1,0 +1,7 @@
+# Unreal Folders to be Ignore
+*/Binaries
+*/Build
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
